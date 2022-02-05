@@ -1,0 +1,39 @@
+Assignment of Linux, Git and GitHub
+
+Exo 0
+mkdir AMMI-git
+   Exo 1
+   cd AMMI-git
+   mkdir Fanta_Soumahoro
+   Exo 2
+   cd … 
+   mkdir AMMI-first
+   Exo 3
+ mv AMMI-first AMMI-git
+ cd AMMI-git
+ ls
+ Exo 4
+ touch identity.txt
+  Exo 5
+  nano identity.txt
+  Exo 6
+  git init
+  git status
+  Exo 7
+  git config --global user.name 'soumfatim'
+  git config --global user.name 'soumfatim163@gmail.com'
+  Exo 8
+  git add identity.txt
+  git status
+  Exo 9
+  git commit -m 'first commit'
+ Exo 11
+git remote add origin https://github.com/soumfatim/Git-Assignment.git
+   Exo 12
+   Ls
+Exo 13
+git push origin master
+  
+  
+   
+
